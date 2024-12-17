@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/SiddhiApps/test-package.git"
   },
+  "directories": {
+    "dist": "./dist"
+  },
   "keywords": [
     "test"
   ],
