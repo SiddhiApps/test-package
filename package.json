@@ -1,5 +1,5 @@
 {
-  "name": "test-package",
+  "name": "@siddhiapps/test-package",
   "version": "1.0.0",
   "description": "To test publish a npm package.",
   "main": "dist/hello-world.js",
@@ -18,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/SiddhiApps/test-package/issues"
   },
-  "homepage": "https://github.com/SiddhiApps/test-package#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "homepage": "https://github.com/SiddhiApps/test-package#readme"
 }
