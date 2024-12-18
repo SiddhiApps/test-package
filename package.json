@@ -1,6 +1,6 @@
 {
   "name": "@siddhiapps/test-package",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "To test publish a npm package.",
   "main": "dist/hello-world.js",
   "scripts": {
